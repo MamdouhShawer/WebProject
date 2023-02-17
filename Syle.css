@@ -1,0 +1,17 @@
+.image1
+{
+    padding-right: 75;
+    padding-left: 75;
+}
+b
+{
+    padding-left: 75;
+}
+table, th, td {
+    border: 1px solid;
+  }
+  caption
+  {
+    font-size: x-large;
+    font-weight: bold;
+  }
